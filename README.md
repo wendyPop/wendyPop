@@ -3,14 +3,12 @@ I'm `an expert for front-end` 🥸  who is -
 - **CREATIVE** with **PASSION**
 - in **CONTINUOUS GROWTH** until the age of sixty-five or more than that.  
 - has **STRONG RESPONSIBILITY** of doing whatever to do.
-
 <br/>
 
 ### MBTI - `INTJ-A`
 - Architect Personality
 - A Thirst for Knowledge
 - A Pioneering Spirit
-
 <br/>
 
 ### Skill Set 👍
@@ -28,8 +26,7 @@ I'm `an expert for front-end` 🥸  who is -
 <img alt="github_icon" src="./assets/imgs/github.webp" width="30"> &nbsp;
 <img alt="npm_icon" src="./assets/imgs/npm.png" width="30"> &nbsp;  
 
-and also has knowledge about web standard, responsive web, good cross-browsing
-
+and also has knowledge about web standard, responsive web, good cross-browsing  
 <br/>
 
 ### Knowledge 😶‍🌫️
@@ -47,7 +44,9 @@ and also has knowledge about web standard, responsive web, good cross-browsing
 <img alt="jira_icon" src="./assets/imgs/jira.webp" width="30"> &nbsp;
 <img alt="vscode_icon" src="./assets/imgs/vscode.png" width="30"> &nbsp;
 <img alt="intelliJ_icon" src="./assets/imgs/intelliJ.jpeg" width="30"> &nbsp;
-<img alt="aws_icon" src="./assets/imgs/aws.webp" width="30"> &nbsp;
+<img alt="aws_icon" src="./assets/imgs/aws.webp" width="30"> &nbsp;  
+
+<br/>  
 <br/>
 
 ### Interesting 😝
