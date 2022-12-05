@@ -59,8 +59,8 @@ and also has knowledge about web standard, responsive web, good cross-browsing
 <br/>
 
 ### issue. what my concern today 🤔
-- I want some evidence for what I've been doing at work. what should I do ? toy project ? blog ? sns ? youtube ? 
-- that's so different how good showing my possibility and potential.
+- I want some evidence for what I've been doing at work and other. what should I do ? toy project ? blog ? sns ? youtube ? 
+- that's so different how good showing my possibility and potential.... try it.
 - I've been studying english. again & again. in the future I want to write a blog in english for World-Wide front-end developer
 
 
