@@ -1,33 +1,40 @@
 ### Hi there 👋
-I'm an expert for front-end who is - 
+I'm `an expert for front-end` who is - 
 - **CREATIVE** with **PASSION**
 - in **CONTINUOUS GROWTH** until the age of sixty-five or more than that.  
 - has **STRONG RESPONSIBILITY** of doing whatever to do.
 
-### MBTI - INTJ-A 
+<br/>
+<br/>
+
+### MBTI - `INTJ-A`
 - Architect Personality
 - A Thirst for Knowledge
 - A Pioneering Spirit
 
-### Skill Set 👍💻
+<br/>
+<br/>
 
-![HTML_ICON](./assets/imgs/html5.png)  
-<img src="html5_icon" src="./assets/imgs/html5.png" width="30">
-- css
-- jquery
-- javascript
-- vuejs
-- reactjs
+### Skill Set 👍
+
+<img alt="html5_icon" src="./assets/imgs/html5.png" width="30"> &nbsp;
+<img alt="css_icon" src="./assets/imgs/css3.png" width="40"> &nbsp;
+<img alt="jQuery_icon" src="./assets/imgs/jquery.png" width="30"> &nbsp;
+<img alt="js_icon" src="./assets/imgs/javascript.png" width="30"> &nbsp;
+<img alt="js_icon" src="./assets/imgs/vue.webp" width="30"> &nbsp;
+<img alt="react_icon" src="./assets/imgs/react.webp" width="30"> &nbsp;
+
+
 - nextjs
-- redux
-- typescript
+- redux  
+<img alt="ts_icon" src="./assets/imgs/typescript.png" width="30"> &nbsp;
 - git
 - github
 - web standard
 - responsive web
 - cross-browsing
 
-### Knowledge :	🕶️
+### Knowledge	🕶️
 - gatsby
 - java
 - linux
