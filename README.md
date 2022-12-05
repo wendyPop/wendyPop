@@ -44,7 +44,10 @@ and also has knowledge about web standard, responsive web, good cross-browsing
 <img alt="java_icon" src="./assets/imgs/java.png" width="30"> &nbsp;
 <img alt="notion_icon" src="./assets/imgs/notion.webp" width="30"> &nbsp;
 <img alt="slack_icon" src="./assets/imgs/slack.jpeg" width="30"> &nbsp;
-
+<img alt="jira_icon" src="./assets/imgs/jira.webp" width="30"> &nbsp;
+<img alt="vscode_icon" src="./assets/imgs/vscode.png" width="30"> &nbsp;
+<img alt="intelliJ_icon" src="./assets/imgs/intelliJ.jpeg" width="30"> &nbsp;
+<img alt="aws_icon" src="./assets/imgs/aws.webp" width="30"> &nbsp;
 <br/>
 
 ### Interesting 😝
@@ -73,13 +76,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 
-- jira / confluence / 
-- AWS / GCP / NCP
+
 - MSA
-- IntelliJ / WebStorm
-- VSCode
 - swaggerAPI
 - figma / zeplin
-
+- sass
+- yarn
+- JSP
+- 
 
 -->
