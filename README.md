@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm `an expert for front-end` who is - 
+I'm `an expert for front-end` 🥸  who is - 
 - **CREATIVE** with **PASSION**
 - in **CONTINUOUS GROWTH** until the age of sixty-five or more than that.  
 - has **STRONG RESPONSIBILITY** of doing whatever to do.
@@ -27,11 +27,12 @@ I'm `an expert for front-end` who is -
 <img alt="git_icon" src="./assets/imgs/git.png" width="30"> &nbsp;
 <img alt="github_icon" src="./assets/imgs/github.webp" width="30"> &nbsp;
 <img alt="npm_icon" src="./assets/imgs/npm.png" width="30"> &nbsp;  
-- web standard
-- responsive web
-- cross-browsing
 
-### Knowledge	🕶
+and also has knowledge about web standard, responsive web, good cross-browsing
+
+<br/>
+
+### Knowledge 😶‍🌫️
 <img alt="gatsby_icon" src="./assets/imgs/Gatsby_Logo.png" width="30"> &nbsp;
 <img alt="java_icon" src="./assets/imgs/java.png" width="30"> &nbsp;
 <img alt="nodejs_icon" src="./assets/imgs/node_js_logo.png" width="30"> &nbsp;
@@ -44,14 +45,18 @@ I'm `an expert for front-end` who is -
 <img alt="notion_icon" src="./assets/imgs/notion.webp" width="30"> &nbsp;
 <img alt="slack_icon" src="./assets/imgs/slack.jpeg" width="30"> &nbsp;
 
-### Interesting
+<br/>
+
+### Interesting 😝
 - ui/ux
-- case study
-- mobility all around the world
-- earth, space, map
+- case study 📊
+- mobility 🚥 all around the world
+- earth 🌍 space 👾 map 🗺️
 - core web technologies
 
-### issue. what my concern today
+<br/>
+
+### issue. what my concern today 🤔
 - I want some evidence for what I've been doing at work. what should I do ? toy project ? blog ? sns ? youtube ? 
 - that's so different how good showing my possibility and potential.
 - I've been studying english. again & again. in the future I want to write a blog in english for World-Wide front-end developer
