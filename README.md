@@ -38,7 +38,6 @@ and also has knowledge about web standard, responsive web, good cross-browsing
 <img alt="oracle_icon" src="./assets/imgs/oracle.png" width="30"> &nbsp;
 <img alt="spring_icon" src="./assets/imgs/spring.png" width="30"> &nbsp;
 <img alt="linux_icon" src="./assets/imgs/linux.png" width="30"> &nbsp;
-<img alt="java_icon" src="./assets/imgs/java.png" width="30"> &nbsp;
 <img alt="notion_icon" src="./assets/imgs/notion.webp" width="30"> &nbsp;
 <img alt="slack_icon" src="./assets/imgs/slack.jpeg" width="30"> &nbsp;
 <img alt="jira_icon" src="./assets/imgs/jira.webp" width="30"> &nbsp;
@@ -52,16 +51,10 @@ and also has knowledge about web standard, responsive web, good cross-browsing
 ### Interesting 😝
 - ui/ux
 - case study 📊
-- mobility 🚥 all around the world
 - earth 🌍 space 👾 map 🗺️
 - core web technologies
 
 <br/>
-
-### issue. what my concern today 🤔
-- I want some evidence for what I've been doing at work and other. what should I do ? toy project ? blog ? sns ? youtube ? 
-- that's so different how good showing my possibility and potential.... try it.
-- I've been studying english. again & again. in the future I want to write a blog in english for World-Wide front-end developer
 
 
 
@@ -75,7 +68,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 
-
+- mobility 🚥 all around the world
 - MSA
 - swaggerAPI
 - figma / zeplin
@@ -83,5 +76,13 @@ Here are some ideas to get you started:
 - yarn
 - JSP
 - lint
+
+
+### issue. what my concern today 🤔
+- I want some evidence for what I've been doing at work and other. what should I do ? toy project ? blog ? sns ? youtube ? 
+- that's so different how good showing my possibility and potential.... try it.
+- I've been studying english. again & again. in the future I want to write a blog in english for World-Wide front-end developer
+
+
 
 -->
