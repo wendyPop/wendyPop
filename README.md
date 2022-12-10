@@ -21,6 +21,7 @@ I'm `an expert for front-end` 🥸  who is -
 <img alt="react_icon" src="./assets/imgs/react.webp" width="30"> &nbsp;
 <img alt="nextjs_icon" src="./assets/imgs/nextjs.png" width="30"> &nbsp;
 <img alt="redux_icon" src="./assets/imgs/redux.webp" width="30"> &nbsp; 
+<img alt="react_query" src="./assets/imgs/ReactQuery.png" width="30"> &nbsp; 
 <img alt="ts_icon" src="./assets/imgs/typescript.png" width="30"> &nbsp;
 <img alt="git_icon" src="./assets/imgs/git.png" width="30"> &nbsp;
 <img alt="github_icon" src="./assets/imgs/github.webp" width="30"> &nbsp;
